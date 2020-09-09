@@ -37,11 +37,5 @@ public class Test1 {
 		User user = dao.findUserById(1);
 		System.out.println(user);
 	}	
-	@Test
-	public void testFindUserById() {
-		UserDao dao = new UserDaoImpl(sqlSessionFactory);
-		User user = dao.findUserById(1);
-		System.out.println(user);
-	}
 
 }
