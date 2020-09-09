@@ -42,5 +42,4 @@ public class Test1 {
 		UserDao dao = new UserDaoImpl(sqlSessionFactory);
 		User user = dao.findUserById(1);
 	}
-
 }

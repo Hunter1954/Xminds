@@ -5,4 +5,3 @@ kldsjfljsdlkfjkl
 Git tracks changes.
 Creating a new branch is quick AND simple
 they say we are what we are
-this is kobe bryant
